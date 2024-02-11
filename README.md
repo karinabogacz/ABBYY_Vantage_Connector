@@ -24,6 +24,3 @@ This script automates document processing using ABBYY Vantage Skills. It monitor
 2. Modify the script with your ABBYY Vantage account details.
 3. Run the script using Python.
 
-## Code Example
-```python
-# Paste your script code here
